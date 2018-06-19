@@ -1,5 +1,5 @@
 # Thompson Sampling
-
+# hola aca einserte un comentario
 # Importing the dataset
 dataset = read.csv('Ads_CTR_Optimisation.csv')
 
